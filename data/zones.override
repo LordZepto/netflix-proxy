@@ -37,3 +37,13 @@ zone "vudu.com." {
     type master;
     file "/data/db.override";
 };
+
+zone "bbc.co.uk." {
+    type master;
+    file "/data/db.override";
+};
+
+zone "bbci.co.uk." {
+    type master;
+    file "/data/db.override";
+};
